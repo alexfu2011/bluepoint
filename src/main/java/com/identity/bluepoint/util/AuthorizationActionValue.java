@@ -1,8 +1,8 @@
-package com.identity.bluepoint.web.util;
-
-import com.identity.bluepoint.web.util.DisplayableValue;
+package com.identity.bluepoint.util;
 
 import java.io.Serializable;
+
+import com.identity.bluepoint.util.DisplayableValue;
 
 /**
  * @author lazyman

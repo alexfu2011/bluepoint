@@ -1,4 +1,4 @@
-package com.identity.bluepoint.web.util;
+package com.identity.bluepoint.util;
 
 /**
  * @author Radovan Semancik
