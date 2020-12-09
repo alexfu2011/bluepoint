@@ -29,10 +29,10 @@ import org.jetbrains.annotations.NotNull;
 import org.w3c.dom.*;
 import org.xml.sax.SAXException;
 
-import com.identity.bluepoint.web.util.exception.SchemaException;
-import com.identity.bluepoint.web.util.exception.SystemException;
-import com.identity.bluepoint.web.util.logging.Trace;
-import com.identity.bluepoint.web.util.logging.TraceManager;
+import com.identity.bluepoint.util.exception.SchemaException;
+import com.identity.bluepoint.util.exception.SystemException;
+import com.identity.bluepoint.util.logging.Trace;
+import com.identity.bluepoint.util.logging.TraceManager;
 
 /**
  * @author Igor Farinic

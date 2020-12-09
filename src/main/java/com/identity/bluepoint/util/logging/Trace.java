@@ -1,4 +1,4 @@
-package com.identity.bluepoint.web.util.logging;
+package com.identity.bluepoint.util.logging;
 
 import org.slf4j.Logger;
 

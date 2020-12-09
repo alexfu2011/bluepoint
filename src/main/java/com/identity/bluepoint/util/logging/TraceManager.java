@@ -1,10 +1,10 @@
-package com.identity.bluepoint.web.util.logging;
+package com.identity.bluepoint.util.logging;
 
 import org.slf4j.ILoggerFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-import com.identity.bluepoint.web.util.logging.impl.TraceImpl;
+import com.identity.bluepoint.util.logging.impl.TraceImpl;
 
 /**
  * Factory for trace instances.

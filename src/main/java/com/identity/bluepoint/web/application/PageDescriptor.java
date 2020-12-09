@@ -23,7 +23,7 @@ public @interface PageDescriptor {
 
     Class<? extends IPageParametersEncoder> encoder() default PageParametersEncoder.class;
 
-    //AuthorizationAction[] action() default {};
+    AuthorizationAction[] action() default {};
 
     /**
      * Permit access to all users (even non-authenticated users)

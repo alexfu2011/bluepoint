@@ -1,8 +1,9 @@
 package com.identity.bluepoint.util;
 
-import com.identity.bluepoint.web.util.logging.Trace;
-import com.identity.bluepoint.web.util.logging.TraceManager;
 import com.google.common.collect.Multimap;
+import com.identity.bluepoint.util.logging.Trace;
+import com.identity.bluepoint.util.logging.TraceManager;
+
 import org.reflections.Reflections;
 import org.reflections.scanners.SubTypesScanner;
 import org.reflections.util.ClasspathHelper;

@@ -13,8 +13,8 @@ import org.apache.commons.lang.Validate;
 import org.jetbrains.annotations.NotNull;
 import org.w3c.dom.Node;
 
-import com.identity.bluepoint.web.util.logging.Trace;
-import com.identity.bluepoint.web.util.logging.TraceManager;
+import com.identity.bluepoint.util.logging.Trace;
+import com.identity.bluepoint.util.logging.TraceManager;
 
 /**
  * QName &lt;-&gt; URI conversion.

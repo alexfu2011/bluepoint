@@ -1,4 +1,4 @@
-package com.identity.bluepoint.web.util.annotation;
+package com.identity.bluepoint.util.annotation;
 
 import java.lang.annotation.Documented;
 

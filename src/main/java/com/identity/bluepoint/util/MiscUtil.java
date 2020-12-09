@@ -36,11 +36,11 @@ import org.jetbrains.annotations.NotNull;
 import org.jetbrains.annotations.Nullable;
 import org.springframework.util.ClassUtils;
 
-import com.identity.bluepoint.web.util.annotation.Experimental;
-import com.identity.bluepoint.web.util.exception.CommonException;
-import com.identity.bluepoint.web.util.exception.SchemaException;
-import com.identity.bluepoint.web.util.exception.SystemException;
-import com.identity.bluepoint.web.util.exception.TunnelException;
+import com.identity.bluepoint.util.annotation.Experimental;
+import com.identity.bluepoint.util.exception.CommonException;
+import com.identity.bluepoint.util.exception.SchemaException;
+import com.identity.bluepoint.util.exception.SystemException;
+import com.identity.bluepoint.util.exception.TunnelException;
 
 /**
  * @author semancik

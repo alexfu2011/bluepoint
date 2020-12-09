@@ -1,4 +1,4 @@
-package com.identity.bluepoint.web.util.exception;
+package com.identity.bluepoint.util.exception;
 
 public class SystemException extends RuntimeException {
 

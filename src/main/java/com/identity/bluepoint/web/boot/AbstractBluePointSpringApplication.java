@@ -5,7 +5,11 @@ import org.apache.wicket.Application;
 import org.apache.wicket.protocol.http.WicketFilter;
 import org.springframework.context.annotation.Bean;
 import org.springframework.boot.web.servlet.FilterRegistrationBean;
+import org.springframework.boot.autoconfigure.ImportAutoConfiguration;
 
+@ImportAutoConfiguration(classes = {
+        //EmbeddedTomcatAutoConfiguration.class
+})
 public abstract class AbstractBluePointSpringApplication {
 	
     @Bean

@@ -1,9 +1,9 @@
-package com.identity.bluepoint.web.util.logging.impl;
+package com.identity.bluepoint.util.logging.impl;
 
 import org.slf4j.Logger;
 import org.slf4j.Marker;
 
-import com.identity.bluepoint.web.util.logging.Trace;
+import com.identity.bluepoint.util.logging.Trace;
 
 /**
  * Wrapper for logging library. It is empty now. But as this is used through all the code

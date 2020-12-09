@@ -1,7 +1,7 @@
 package com.identity.bluepoint.util;
 
-import com.identity.bluepoint.web.util.annotation.Experimental;
-import com.identity.bluepoint.web.util.exception.CommonException;
+import com.identity.bluepoint.util.annotation.Experimental;
+import com.identity.bluepoint.util.exception.CommonException;
 
 import java.io.Serializable;
 

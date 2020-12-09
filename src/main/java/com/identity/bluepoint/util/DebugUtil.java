@@ -17,10 +17,10 @@ import java.util.function.Supplier;
 
 import javax.xml.namespace.QName;
 
-import com.identity.bluepoint.web.util.annotation.Experimental;
-
 import org.springframework.util.ReflectionUtils;
 import org.springframework.util.ReflectionUtils.FieldCallback;
+
+import com.identity.bluepoint.util.annotation.Experimental;
 
 /**
  *

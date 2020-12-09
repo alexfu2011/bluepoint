@@ -11,7 +11,7 @@ public class BluePointApplication extends WebApplication {
 	{
 		return HomePage.class;
 	}
-	
+    
 	@Override
 	public void init()
 	{

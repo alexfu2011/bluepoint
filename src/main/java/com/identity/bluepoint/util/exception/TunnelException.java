@@ -1,4 +1,4 @@
-package com.identity.bluepoint.web.util.exception;
+package com.identity.bluepoint.util.exception;
 
 /**
  * Exception used for tunneling checked exceptions through places where checked exceptipons are not allowed (e.g. callbacks).
