@@ -36,7 +36,7 @@ public class BluePointAuthWebSession extends AuthenticatedWebSession {
 	    LOGGER.debug("Found locale {}", locale);
 	    if (locale == null || !BluePointApplication.containsLocale(locale)) {
 	        //default locale for web application
-	        setLocale(BluePointApplication.getDefaultLocale());
+	        //setLocale(BluePointApplication.getDefaultLocale());
 	    }
 	    LOGGER.debug("Using {} as locale", getLocale());
 	}
